@@ -1,0 +1,28 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+p {
+    background-color: green;
+    color: aliceblue;
+}
+
+
+#about {
+    background-color: gold;
+    color: white;
+}
+
+
+section{
+    background-color: wheat;
+    color: crimson;
+}
+
+
+
+.box{
+    background-color: blueviolet  !important;
+    color: darkgoldenrod;
+}
